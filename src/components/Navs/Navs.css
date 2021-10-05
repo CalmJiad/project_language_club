@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
+.header{
+    font-size: 30px;
+}
+
+.nav-items{
+    list-style: none;
+}
+
+.navbar{
+    z-index: 1;
+    font-size: 18px;
+    width: 100vw;
+    padding: 10px;
+    font-family: 'Arvo', serif;
+}

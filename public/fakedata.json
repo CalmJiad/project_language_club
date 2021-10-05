@@ -1,0 +1,133 @@
+[
+    {
+      "name": "Basic Bangla For Kids",
+      "description": "Stimulate a critically engaged practice to prepare a range of related scopes by learning worlds most cognitive speaking language. This course will help the students to gain the basic ability and beauty of Bangla grammar.",
+      "sit": 25,
+      "duration": "2 year",
+      "price": 150,
+      "eligibility" : "Anyone can apply. But we appreciate mostly this course for kids and specifically initial level learner",
+      "id": 1000,
+      "img": "https://i.ibb.co/Yp5N2Fm/bangla1.png"
+    },
+
+    {
+      "name": "Advanced Bangla Language Curve",
+      "description": "The students will explore a wide range of relevant theories and grammatical beauties which is designed to stimulate a critically engaged practice to prepare for a range of related usage in different ways.",
+      "sit": 35,
+      "duration": "1.5 year",
+      "price": 970,
+      "eligibility" : "A candidate having at least 6 month knowledge in using Bengali language in any relevant discipline can join this course",
+      "id": 1001,
+      "img": "https://i.ibb.co/YNHd4J4/bangla2.jpg"
+    },
+
+    {
+      "name": "Basic English For All",
+      "description": "Our highly qualified teachers deliver an interactive learning experience in our online classrooms. With a focus on real-world topics relevant to your everyday life, and practical speaking or writing tasks in every lesson, we give you the confidence to use English in the situations that matter to you.",
+      "sit": 40,
+      "duration": "6 month",
+      "price": 1230,
+      "eligibility" : "This course is open for everyone. With a flexible timetable, a selection of credit packages and your choice of lessons and teacher, you can build a learning schedule that works for you.",
+      "id": 1002,
+      "img": "https://i.ibb.co/F03PYDP/english1.jpg"
+    },
+
+    {
+        "name": "Integrated English Communication",
+        "description": "This Specialization is designed to teach you to communicate effectively in English in professional contexts. You will expand your English vocabulary, improve your ability to write and speak in English in both social and professional interactions, and learn terminology and skills that you can apply to business negotiations.",
+        "sit": 35,
+        "duration": "1.5 years",
+        "price": 2700,
+        "eligibility" : "A candidate having at least 1-year experience both in speaking and writing can apply for this course. Every Specialization includes a hands-on project. You'll need to successfully finish the project(s) to complete the Specialization and earn your certificate.",
+        "id": 1003,
+        "img": "https://i.ibb.co/jMT9kWp/english2.jpg"
+      },
+
+    {
+      "name": "Basic Arabic Visualizations",
+      "description": "This course includes the easy part, which is good for beginners and the part where things become serious, and it becomes even more difficult, such as level 2 Grammar and vocabulary, then to level 3 and so on. Afterwards you will be ready to start reading intermediate Arabic books, newspapers, and much more.",
+      "sit": 30,
+      "duration": "2 month",
+      "price": 800,
+      "eligibility" : "Any People who are seeking to learn new language, who are thirsty for more knowledge and experience",
+      "id": 1004,
+      "img": "https://i.ibb.co/Sfz6KWF/arabic1.jpg"
+    },
+
+    {
+      "name": "The Deep Learning In Arabic Language",
+      "description": "Stimulate a critically engaged practice to prepare for a range of related careers you the students will explore a wide range of relevant contemporary theories which is designed for Arabic speaking criterias.",
+      "sit": 20,
+      "duration": "7 month",
+      "price": 1300,
+      "eligibility" : "A candidate having at least 6months schooling from relevant discipline can apply for undergraduate admission, if s/he can satisfy any of the following conditions",
+      "id": 1005,
+      "img": "https://i.ibb.co/Sfz6KWF/arabic1.jpg"
+    },
+
+    {
+      "name": "Basic Duetch For All",
+      "description": "The students will explore a wide range of relevant contemporary theories  which is designed to stimulate a critically engaged practice to prepare for a range of related careers in German speaking fields.",
+      "sit": 30,
+      "duration": "5 week",
+      "price": 410,
+      "eligibility" : "A candidate having at least 12-year schooling from relevant discipline can apply for undergraduate admission, if s/he can satisfy any of the following conditions:",
+      "id": 1006,
+      "img": "https://i.ibb.co/0FptGYZ/german1.jpg"
+    },
+
+    {
+      "name": "Deep German Language Learning",
+      "description": "Our highly qualified teachers deliver an interactive learning experience in our online classrooms. With a focus on real-world topics relevant to your everyday life, and practical speaking or writing tasks in every lesson, we give you the confidence to use English in the situations that matter to you.",
+      "sit": 60,
+      "duration": "11 Month",
+      "price": 2400,
+      "eligibility" :"A candidate having at least 1-year knowledge in both speaking and writing in german language environment",
+      "id": 1007,
+      "img": "https://i.ibb.co/jMT9kWp/english2.jpg"
+    },
+
+    {
+      "name": "Basic Japaanese",
+      "description": "The students will explore a wide range of relevant contemporary theories  which is designed to stimulate a critically engaged practice to prepare for a range of related careers in German speaking fields.",
+      "sit": 35,
+      "duration": "3 mounth",
+      "price": 630,
+      "eligibility" :"Any People who are seeking to learn new language, who are thirsty for more knowledge and experience",
+      "id": 1008,
+      "img": "https://i.ibb.co/pXhVdRv/japaneese1.jpg"
+    },
+
+    {
+        "name": "Advanced Japaanese Language Assistance",
+        "description": "The students will explore a wide range of relevant theories and grammatical beauties which is designed to stimulate a critically engaged practice to prepare for a range of related usage in different ways.",
+        "sit": 30,
+        "duration": "1.5 year",
+        "price": 1970,
+        "eligibility" : "A candidate having at least 6 month knowledge in using Japaneese language in any relevant discipline can join this course",
+        "id": 1009,
+        "img": "https://i.ibb.co/2KLKWkz/japaneese2.jpg"
+      },
+
+      {
+        "name": "Francais For All",
+        "description": "The students will explore a wide range of relevant contemporary theories  which is designed to stimulate a critically engaged practice to prepare for a range of related careers in Japaneese speaking fields.",
+        "sit": 30,
+        "duration": "6 week",
+        "price": 1710,
+        "eligibility" : "A candidate having at least 6-year schooling from relevant discipline can apply for undergraduate admission, if s/he can satisfy any of the following conditions:",
+        "id": 1010,
+        "img": "https://i.ibb.co/zrVgvmb/francis1.jpg"
+      },
+
+      {
+        "name": "Deep Francais Analogy",
+        "description": "This Specialization is designed to teach you to communicate effectively in Francais instead of English in professional contexts. You will expand your vocabulary, improve your ability to write and speak in Francais in both social and professional interactions, and learn terminology and skills that you can apply to business negotiations.",
+        "sit": 60,
+        "duration": "1.5 year",
+        "price": 4400,
+        "eligibility" :"A candidate who have at least 1-year knowledge in both speaking and writing in Francais language environment",
+        "id": 1011,
+        "img": "https://i.ibb.co/F03PYDP/english1.jpg"
+      }
+]

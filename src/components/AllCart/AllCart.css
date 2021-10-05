@@ -1,0 +1,23 @@
+.searchBtn {
+    background-color: rgb(243, 65, 0);
+    padding: 6px 25px;
+    margin-left: 5px;
+    border: none;
+    border-radius: 4px;
+}
+
+.item{
+    border: 1px solid grey;
+}
+
+.cardBody{
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.detailbtn{
+    color:white;
+    background-color:  rgb(243, 65, 0);
+    padding: 6px 25px;
+    border-radius: 4px;
+}

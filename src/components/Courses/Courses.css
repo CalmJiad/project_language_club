@@ -1,0 +1,10 @@
+.detailbtn{
+    color:white;
+    background-color:  rgb(243, 65, 0);
+    padding: 6px 25px;
+    border-radius: 4px;
+}
+
+.over{
+    overflow: hidden;
+}
